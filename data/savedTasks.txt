@@ -5,4 +5,4 @@ T | 1 | Add more features to Duke
 T | 0 | Merge A-UserGuide to Master branch
 E | 0 | Exam | 01/10/2019 09:00 | 01/10/2019 09:00
 E | 0 | Lecture | 01/11/2019 10:00 | 01/11/2019 10:00
-T | 0 | Complete MA2108 Assignment
+T | 1 | Complete MA2108 Assignment
